@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eng-katia.github.io/katia/sitemap.xml
